@@ -45,11 +45,13 @@
 5. In another pan, add butter.
 6. Add the chopped onion and crushed garlic, then sauté until light golden brown.
 7. Add black pepper powder and mixed herbs. Let the mixture cool slightly.
-8. Add the thick curd/yoghurt, fresh coriander, honey, and salt. Mix well to make the sauce.
+8. Add the thick whipped up curd/yoghurt, fresh coriander, honey, and salt. Mix well to make the sauce.
 9. Serve the grilled paneer hot with the garlic pepper sauce and some fresh salad on the side.
 
 ## Notes
 - Use thick curd or Greek yogurt for a creamier sauce.
+- Greek yoghurt can increase the protein content in the recipe
+- Can use low fat paneer if you want to reduce the calories
 - Let the onion-garlic mixture cool a bit before adding curd so it does not split.
 - You can add extra salad or 1 roti on the side to make it a fuller meal.
 
