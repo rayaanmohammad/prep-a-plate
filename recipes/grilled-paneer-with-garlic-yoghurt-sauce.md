@@ -1,4 +1,4 @@
-# Grilled Paneer with Garlic Yoghurt Sauce
+# Grilled Paneer with Garlic Yoghurt Sauce - 8/10
 
 ![Grilled Paneer with Garlic Yoghurt Sauce](../images/grilled-paneer-with-garlic-yoghurt-sauce.png)
 
