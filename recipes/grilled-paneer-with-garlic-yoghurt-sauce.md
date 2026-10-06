@@ -50,8 +50,8 @@
 
 ## Notes
 - Use thick curd or Greek yogurt for a creamier sauce.
-- Greek yoghurt can increase the protein content in the recipe
-- Can use low fat paneer if you want to reduce the calories
+- Greek yoghurt can increase the protein content in the recipe.
+- Can use low fat paneer if you want to reduce the calories.
 - Let the onion-garlic mixture cool a bit before adding curd so it does not split.
 - You can add extra salad or 1 roti on the side to make it a fuller meal.
 
