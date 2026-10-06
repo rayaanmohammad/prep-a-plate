@@ -2,6 +2,13 @@
 
 ![Grilled Paneer with Garlic Yoghurt Sauce](../images/grilled-paneer-with-garlic-yoghurt-sauce.png)
 
+## Nutrition
+
+- Calories: ~680 kcal
+- Protein: ~37 g
+- Carbohydrates: ~28 g
+- Fat: ~45 g
+
 ## Ingredients
 
 ### For the grilled paneer
@@ -47,4 +54,4 @@
 - You can add extra salad or 1 roti on the side to make it a fuller meal.
 
 ## Source
-Adapted from an Instagram recipe by Mrs YumTum.
+Adapted from an Instagram recipe - https://www.instagram.com/reel/DcVo2N4PzHq
