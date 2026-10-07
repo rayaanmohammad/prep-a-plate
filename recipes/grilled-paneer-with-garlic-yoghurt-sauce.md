@@ -1,5 +1,6 @@
 # Grilled Paneer with Garlic Yoghurt Sauce - 8/10
 Serving Size: 1 serving
+
 ![Grilled Paneer with Garlic Yoghurt Sauce](../images/grilled-paneer-with-garlic-yoghurt-sauce.png)
 
 ## Nutrition
