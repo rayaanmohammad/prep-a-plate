@@ -14,7 +14,7 @@ Serving Size: 1 serving
 ## Ingredients
 
 - 3 eggs
-- 2 medium tomatoes, chopped or crushed  (can reduce the fresh chopped tomotoes and use some purée for a deeper sauce)
+- 2 medium tomatoes, chopped into small dices or crushed  (can reduce the fresh chopped tomotoes and use some purée for a deeper sauce)
 - 1/2 medium onion, finely chopped
 - 1/2 capsicum, chopped (red one looks better)
 - 2–3 garlic cloves, finely chopped
@@ -38,7 +38,7 @@ Serving Size: 1 serving
 3. Add the chopped garlic and cook for another 30–60 seconds. Cooking for too long might burn the garlic
 4. Add cumin powder, paprika/Kashmiri chilli powder, red chilli powder, black pepper, and salt. Stir for around 30 seconds.
 5. Add the chopped/crushed tomatoes and mix everything together.
-6. Let the tomato mixture simmer uncovered for 8–10 minutes until it thickens into a sauce.
+6. Let the tomato mixture simmer uncovered for 8–10 minutes until it thickens into a sauce. The tomatoes should have a jammy consistency.
 7. Taste the sauce and adjust the salt and spices if required. Add a lil bit of sugar if the tomatoes are too acidic.
 8. Make three small wells in the tomato mixture and crack one egg into each well.
 9. Cover the pan and cook on low-medium heat for around 4–6 minutes, until the egg whites are cooked but the yolks are still slightly runny. Cook longer if you prefer firm yolks.
@@ -55,5 +55,5 @@ Serving Size: 1 serving
 - The vegetables and spices can easily be adjusted depending on what you have available.
 
 ## Source
-Adapted from traditional North African and Middle Eastern shakshuka recipes. But if you do really need a source for this: https://youtu.be/VNW2_ndBWYg?si=i30P-YfrydaY1zPM
-although this video is a lil indianized.
+Adapted from traditional North African and Middle Eastern shakshuka recipes. But if you do need a source for this: https://youtu.be/VNW2_ndBWYg?si=i30P-YfrydaY1zPM
+although this video is a little indianized and honestly it can be made any way you want.
