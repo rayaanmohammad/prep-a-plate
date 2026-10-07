@@ -1,5 +1,5 @@
 # Shakshuka - 8.2/10
-Perfect for breakfast but may take some time to make
+Perfect for breakfast but may take some time to make <br>
 Serving Size: 1 serving
 
 ![Shakshuka](../images/shakshuka.png)
