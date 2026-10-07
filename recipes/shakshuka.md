@@ -1,4 +1,4 @@
-# Shakshuka - 8.2/10
+# Shakshuka - 7.8/10
 Perfect for breakfast but may take some time to make <br>
 Serving Size: 1 serving
 
