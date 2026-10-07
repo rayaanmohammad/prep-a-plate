@@ -1,5 +1,6 @@
 # Shakshuka - 8.2/10
 Perfect for breakfast but may take some time to make
+Serving Size: 1 serving
 
 ![Shakshuka](../images/shakshuka.png)
 
@@ -15,7 +16,7 @@ Perfect for breakfast but may take some time to make
 - 3 eggs
 - 2 medium tomatoes, chopped or crushed  (can reduce the fresh chopped tomotoes and use some purée for a deeper sauce)
 - 1/2 medium onion, finely chopped
-- 1/2 capsicum, chopped
+- 1/2 capsicum, chopped (red one looks better)
 - 2–3 garlic cloves, finely chopped
 - 1 tsp olive oil
 - 1/2 tsp cumin powder
@@ -54,4 +55,5 @@ Perfect for breakfast but may take some time to make
 - The vegetables and spices can easily be adjusted depending on what you have available.
 
 ## Source
-Adapted from traditional North African and Middle Eastern shakshuka recipes.
+Adapted from traditional North African and Middle Eastern shakshuka recipes. But if you do really need a source for this: https://youtu.be/VNW2_ndBWYg?si=i30P-YfrydaY1zPM
+although this video is a lil indianized.
